@@ -7,5 +7,5 @@ object Versions {
     const val springDependencyManagement =
         "1.0.11.RELEASE" // https://github.com/spring-gradle-plugins/dependency-management-plugin/releases
     const val trixnity = "0.1.5"
-    const val springMockk = "3.0.1" // https://github.com/Ninja-Squad/springmockk/releases
+    const val springMockk = "3.1.2" // https://github.com/Ninja-Squad/springmockk/releases
 }
